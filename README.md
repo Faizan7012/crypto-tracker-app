@@ -6,6 +6,10 @@
 "Crypto Tracker" is your go-to app for tracking the latest prices and exchange rates of various cryptocurrencies. With a user-friendly interface, it provides up-to-date information on the current price of any cryptocurrency you're interested in, along with exchange rates against major fiat currencies. Stay informed and make informed decisions with Crypto Tracker at your fingertips.
 </p>
 
+<h2 align="left"><i>Project Type</i></h2>
+<p>
+  Frontend App
+</p>
   
 
 <p align="center">
@@ -24,9 +28,22 @@
 <img alit="chakra" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />  
 </div>
 
+<h2 align="left"><i>Working Functionalities</i></h2>
+<ul>
+  <li>
+    Real-time Data Updates: Receive continuous updates on cryptocurrency prices and exchange rates from various exchanges to ensure you have the most current information available.
+  </li>
+  <li>Advanced Search Functionality: Utilize a powerful search feature to quickly find specific cryptocurrencies by name or symbol.</li>
+  <li>Intuitive Navigation: Navigate seamlessly through the app with a user-friendly interface, allowing for easy access to different features and sections.</li>
+  <li>Smooth User Interface: Enjoy a visually appealing and responsive user interface designed for optimal performance and smooth interaction.</li>
+  <li>Interactive Charts: Analyze cryptocurrency price movements with interactive charts featuring various timeframes and indicators for in-depth analysis.</li>
+</ul>
+
+
 <h2 align="left"><i>Deployed link</i></h2>
 
-<h3 align="left"><a href="https://peaceful-scone-4d43c1.netlify.app/" target="_blank">Crypto Tracker   =  <a href="https://peaceful-scone-4d43c1.netlify.app/">https://peaceful-scone-4d43c1.netlify.app/</a></a></h3>
+<h3 align="left"><a>Live Link   =  <a href="https://peaceful-scone-4d43c1.netlify.app/">https://peaceful-scone-4d43c1.netlify.app/</a></a></h3>
+<h3 align="left"><a>Demo Video Link   =  <a href="https://drive.google.com/file/d/1FpeU9JhdtdVdDIa1AWjAxjEgMw4APvCr/view?usp=drive_link">https://drive.google.com/file/d/1FpeU9JhdtdVdDIa1AWjAxjEgMw4APvCr/view?usp=drive_link</a></a></h3>
 
 <h1>Contributor</h1>
     <ul>
@@ -38,7 +55,7 @@
 
 <h3 align="left"><i>Laptop View</i></h2>
 <div align="left">
-  <img style={{margibBottom : '10px'}} src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
+  <img marginBottom='20px' src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
   <img src='https://i.ibb.co/SBV9KF4/Screenshot-294.png' alt='2' /><br />
   <img src='https://i.ibb.co/92j1vSq/Screenshot-295.png' alt='3' /><br />
   <img src='https://i.ibb.co/jGZCzsb/Screenshot-297.png' alt='4' /><br />
@@ -57,9 +74,7 @@
 <p>Learned to work on new tasks.</p>
 
 <h2>Project Duration</h2>
-<p>2 hours</p>  
-
-
+<p>24 hours</p>  
 
 
 ## Run Locally for Frontend Part
