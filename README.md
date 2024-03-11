@@ -26,7 +26,7 @@
 
 <h2 align="left"><i>Deployed link</i></h2>
 
-<h3 align="left"><a href="https://peaceful-scone-4d43c1.netlify.app/" target="_blank">Crypto Tracker</a></h3>
+<h3 align="left"><a href="https://peaceful-scone-4d43c1.netlify.app/" target="_blank">Crypto Tracker   =  <a>https://peaceful-scone-4d43c1.netlify.app/</a></a></h3>
 
 <h1>Contributor</h1>
     <ul>
