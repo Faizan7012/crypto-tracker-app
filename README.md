@@ -38,7 +38,7 @@
 
 <h3 align="left"><i>Laptop View</i></h2>
 <div align="left">
-  <img src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
+  <img style={{margibBottom : '10px'}} src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
   <img src='https://i.ibb.co/SBV9KF4/Screenshot-294.png' alt='2' /><br />
   <img src='https://i.ibb.co/92j1vSq/Screenshot-295.png' alt='3' /><br />
   <img src='https://i.ibb.co/jGZCzsb/Screenshot-297.png' alt='4' /><br />
