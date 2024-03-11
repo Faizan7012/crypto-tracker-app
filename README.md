@@ -26,7 +26,7 @@
 
 <h2 align="left"><i>Deployed link</i></h2>
 
-<h3 align="left"><a href="https://peaceful-scone-4d43c1.netlify.app/" target="_blank">Crypto Tracker   =  <a>https://peaceful-scone-4d43c1.netlify.app/</a></a></h3>
+<h3 align="left"><a href="https://peaceful-scone-4d43c1.netlify.app/" target="_blank">Crypto Tracker   =  <a href="https://peaceful-scone-4d43c1.netlify.app/">https://peaceful-scone-4d43c1.netlify.app/</a></a></h3>
 
 <h1>Contributor</h1>
     <ul>
@@ -38,17 +38,17 @@
 
 <h3 align="left"><i>Laptop View</i></h2>
 <div align="left">
-  <img src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' />
-  <img src='https://i.ibb.co/SBV9KF4/Screenshot-294.png' alt='2' />
-  <img src='https://i.ibb.co/92j1vSq/Screenshot-295.png' alt='3' />
-  <img src='https://i.ibb.co/jGZCzsb/Screenshot-297.png' alt='4' />
-  <img src='https://i.ibb.co/HT7N2fc/Screenshot-298.png' alt='5' />
+  <img src='https://i.ibb.co/3YHphZp/Screenshot-293.png' alt='1' /><br />
+  <img src='https://i.ibb.co/SBV9KF4/Screenshot-294.png' alt='2' /><br />
+  <img src='https://i.ibb.co/92j1vSq/Screenshot-295.png' alt='3' /><br />
+  <img src='https://i.ibb.co/jGZCzsb/Screenshot-297.png' alt='4' /><br />
+  <img src='https://i.ibb.co/HT7N2fc/Screenshot-298.png' alt='5' /><br />
 </div>
 <h3 align="left"><i>Mobile View</i></h2>
 <div align="left">
-  <img src='https://i.ibb.co/X2zWCvw/Screenshot-296.png' alt='1' />
-  <img src='https://i.ibb.co/y6mQ16n/Screenshot-299.png' alt='2' />
-  <img src='https://i.ibb.co/qBGhS2g/Screenshot-300.png' alt='3' />
+  <img src='https://i.ibb.co/X2zWCvw/Screenshot-296.png' alt='1' /><br />
+  <img src='https://i.ibb.co/y6mQ16n/Screenshot-299.png' alt='2' /><br />
+  <img src='https://i.ibb.co/qBGhS2g/Screenshot-300.png' alt='3' /><br />
 </div>
 
       
